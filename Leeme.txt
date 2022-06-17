@@ -1,0 +1,11 @@
+La aplicación es un sigle page aplication.
+
+Puede navegar entre los formularios en el panel izquierdo.
+
+Los registros son cargados en los DataGridView de cada formulario.
+
+Puede acceder a los registros haciendo doble click sobre un registro en el DataGridView y será cargado automáticamente en los controles de registro.
+
+Para buscar un registro en los formularios de actor y película debe selecionar un criterio de busqueda y luego introducir lo que desea buscar según el criterio. Los criterios están basados en los campos del registro por lo que la busqueda se reliza por campos.
+
+Los botones de los formularios se activan y se desactivan según si se está registrando o modificando un registro.

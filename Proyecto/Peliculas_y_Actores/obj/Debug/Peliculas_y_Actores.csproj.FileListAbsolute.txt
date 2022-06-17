@@ -1,0 +1,14 @@
+C:\Users\joce0\source\repos\Peliculas_y_Actores\Peliculas_y_Actores\bin\Debug\Peliculas_y_Actores.exe.config
+C:\Users\joce0\source\repos\Peliculas_y_Actores\Peliculas_y_Actores\bin\Debug\Peliculas_y_Actores.exe
+C:\Users\joce0\source\repos\Peliculas_y_Actores\Peliculas_y_Actores\bin\Debug\Peliculas_y_Actores.pdb
+C:\Users\joce0\source\repos\Peliculas_y_Actores\Peliculas_y_Actores\obj\Debug\Peliculas_y_Actores.csproj.AssemblyReference.cache
+C:\Users\joce0\source\repos\Peliculas_y_Actores\Peliculas_y_Actores\obj\Debug\Peliculas_y_Actores.ActoresForm.resources
+C:\Users\joce0\source\repos\Peliculas_y_Actores\Peliculas_y_Actores\obj\Debug\Peliculas_y_Actores.AdministradorDePeliculas.resources
+C:\Users\joce0\source\repos\Peliculas_y_Actores\Peliculas_y_Actores\obj\Debug\Peliculas_y_Actores.Component.ElencoForm.resources
+C:\Users\joce0\source\repos\Peliculas_y_Actores\Peliculas_y_Actores\obj\Debug\Peliculas_y_Actores.InicioForm.resources
+C:\Users\joce0\source\repos\Peliculas_y_Actores\Peliculas_y_Actores\obj\Debug\Peliculas_y_Actores.PeliculasForm.resources
+C:\Users\joce0\source\repos\Peliculas_y_Actores\Peliculas_y_Actores\obj\Debug\Peliculas_y_Actores.Properties.Resources.resources
+C:\Users\joce0\source\repos\Peliculas_y_Actores\Peliculas_y_Actores\obj\Debug\Peliculas_y_Actores.csproj.GenerateResource.cache
+C:\Users\joce0\source\repos\Peliculas_y_Actores\Peliculas_y_Actores\obj\Debug\Peliculas_y_Actores.csproj.CoreCompileInputs.cache
+C:\Users\joce0\source\repos\Peliculas_y_Actores\Peliculas_y_Actores\obj\Debug\Peliculas_y_Actores.exe
+C:\Users\joce0\source\repos\Peliculas_y_Actores\Peliculas_y_Actores\obj\Debug\Peliculas_y_Actores.pdb
